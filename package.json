@@ -1,0 +1,15 @@
+{
+  "name": "fire-mpesa",
+  "version": "1.0.0",
+  "description": "listen for mpesa callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpesa",
+    "android"
+  ],
+  "author": "Fredrick Ochieng",
+  "license": "MIT"
+}
